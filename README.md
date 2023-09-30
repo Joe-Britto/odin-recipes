@@ -1,0 +1,1 @@
+This is the first simple project which needs to be pushed in github.Just  a trail method how to commit and add files in git.
